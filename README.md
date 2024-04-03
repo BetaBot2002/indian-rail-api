@@ -1,4 +1,4 @@
-#THIS IS A MODIFICATION OF THE API
+# THIS IS A MODIFICATION OF THE API
 ## Indian-Rail-Api
 
 A simple rest api for Indian Railway data for personal projects which allowe to GetTrainInformation,GetRoute,GetTrainOnDate,GetTrainBtwStations
